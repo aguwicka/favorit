@@ -17,6 +17,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iriy.by" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +39,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Downloads\OSPanel\domains\favorit\wp-content\themes\favorite\assets" />
+      <recent name="C:\Users\admin\Downloads\OSPanel\domains\favorit\wp-content\themes\favorite\assets\css" />
       <recent name="C:\Users\admin\Downloads\OSPanel\domains\favorit\wp-content\themes\favorite" />
       <recent name="C:\Users\admin\Downloads\OSPanel\domains\favorit\assets\img" />
     </key>
@@ -55,7 +58,10 @@
       <workItem from="1611878367910" duration="16193000" />
       <workItem from="1612180461006" duration="155000" />
       <workItem from="1612180968343" duration="3188000" />
-      <workItem from="1612185081927" duration="572000" />
+      <workItem from="1612185081927" duration="1347000" />
+      <workItem from="1612253156391" duration="10473000" />
+      <workItem from="1612340583565" duration="7702000" />
+      <workItem from="1612348940953" duration="16000" />
     </task>
     <servers />
   </component>
@@ -63,13 +69,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1612184188372">
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1612342160815">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1612184188372" />
-    <state x="634" y="350" key="NewPhpFileDialog" timestamp="1612182603947">
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1612342160815" />
+    <state x="634" y="350" key="NewPhpFileDialog" timestamp="1612343438226">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="350" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1612182603947" />
+    <state x="634" y="350" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1612343438226" />
   </component>
 </project>

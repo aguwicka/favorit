@@ -3,10 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Favorit</title>
-
-    <!-- UIkit JS -->
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.14/dist/js/uikit.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.14/dist/js/uikit-icons.min.js"></script>
     <?php wp_head();?>
 </head>
 <body>
@@ -28,11 +24,26 @@
                     <ul class="main__menu">
                         <li class="active"><a href="">Home</a></li>
                         <li><a href="">About</a></li>
-                        <li><a href="">Casino games</a><img src="assets/img/arrow_1.svg" alt=""></li>
-                        <li><a href="">News</a><img src="assets/img/arrow_1.svg" alt=""></li>
+                        <li><a href="">Casino games</a><img src="<?php bloginfo('template_directory');?>/assets/img/arrow_1.svg" alt=""></li>
+                        <li><a href="">News</a><img src="<?php bloginfo('template_directory');?>/assets/img/arrow_1.svg" alt=""></li>
                         <li><a href="">FAQ</a></li>
                     </ul>
                 </nav>
+            </div>
+        </div>
+        <div class="header__mobile__wrap">
+            <div class="header__info">
+                <div class="header__support uk-width-1-1">
+                    <a href="#">Support</a>
+                    <a href="" class="register"><img src="<?php bloginfo('template_directory');?>/assets/img/reg.svg" alt="">Register</a>
+                    <a href="#" class="lang"><img src="<?php bloginfo('template_directory');?>/assets/img/lg.svg" alt="">En</a>
+                </div>
+            </div>
+            <div class="mobile__logo__wrap uk-flex">
+                <a href="">
+                    <img src="<?php bloginfo('template_directory');?>/assets/img/logo_favorit.svg" alt="">
+                </a>
+                <img src="<?php bloginfo('template_directory');?>/assets/img/burger.svg" alt="">
             </div>
         </div>
     </header>

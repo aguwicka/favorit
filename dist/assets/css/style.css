@@ -11,12 +11,16 @@
     --secondColor: #FF4646;
 }
 body {
+    overflow-x: hidden;
     font-family: var(--mainFont);
     color: var(--mainColor);
 }
 .wrapper {
     max-width: 1920px;
     background: #151515;
+}
+.header__mobile__wrap {
+    display: none;
 }
 .header {
     background: #252525;
@@ -110,7 +114,11 @@ body {
     font-size: 6.4rem;
     line-height: 85px;
     max-width: 60%;
+    color: #fff;
     text-align: center;
+}
+.uk-slider-wrapper {
+    min-height: 62rem;
 }
 .slider-content a {
     padding: 1.3rem 4.2rem;
